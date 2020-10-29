@@ -1,5 +1,5 @@
 # my_talker_listener_cpp
-This is a ROS package to demonstrate the communication of two nodes by publishing and subcribing to a topic.
+This is a ROS package to demonstrate the communication of two nodes by publishing and subscribing to a topic.
 
 This package was tested on ROS Melodic and Ubuntu 18.04 LTS.
 
